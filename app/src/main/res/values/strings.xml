@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">TallerDos</string>
+    <string name="hora">10:49</string>
+    <string name="dia">Sabado</string>
+    <string name="fecha">29 Agosto 2017</string>
+    <string name="n1">2</string>
+    <string name="txt1">Llamadas</string>
+    <string name="n2">4</string>
+    <string name="n3">48</string>
+    <string name="txt3">Notificaciones</string>
+    <string name="txt2">Mensajes</string>
+    <string name="txt4">Estado de la bateria: 91%</string>
+    <string name="str_1">Menu_Uno</string>
+    <string name="str_2">Menu_Dos</string>
+    <string name="str_3">Menu_Tres</string>
+    <string name="str_4">Ayuda</string>
+    <string name="str_5">Configuracion</string>
+    <string name="str_6">Salir</string>
+
+</resources>
